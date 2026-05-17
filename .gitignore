@@ -28,7 +28,7 @@ yarn-error.log*
 *.swp
 *.swo
 *.iml
-
+.claude/
 # 日志
 *.log
 
