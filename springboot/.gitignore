@@ -10,6 +10,7 @@ target/
 *.swp
 *.swo
 *.iml
+.spec-workflow/
 
 # 日志
 *.log
@@ -19,6 +20,10 @@ application.yml
 
 # 数据库文件
 data/
+
+# 运行时上传/缓存文件
+uploads/
+music/
 
 # 系统
 .DS_Store
